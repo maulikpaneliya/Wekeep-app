@@ -35,7 +35,7 @@ A simple web application for managing sticky notes, built using HTML, CSS, and J
 
 ## Live Demo
 
-[_(Click here for live preview)_](https://proindex.netlify.app/main/projects/wekeep/index.html)
+[_Click here for live preview_](https://proindex.netlify.app/main/projects/wekeep/index.html)
 
 ## Future Enhancements
 
